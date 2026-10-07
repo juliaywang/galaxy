@@ -20,3 +20,5 @@ The animation includes:
 7. Click the Upload button in Arduino IDE.
 8. Wait until the IDE displays "Hard resetting via RTS pin..." or confirms that the upload is complete.
 9. Your animation is uploaded!
+
+<img width="480" height="480" alt="galaxy gif" src="https://github.com/user-attachments/assets/0cbbce4e-ae18-4a6e-9f9a-f9cda5cdd14d" />
